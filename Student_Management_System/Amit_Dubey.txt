@@ -1,0 +1,12 @@
+*************[Student-Record]*************
+Student-Name: Aman
+Rol / Contact # 1
+Address: Lanka
+
+---------------
+*********** [Student__Record] ***********
+Student_Name: Anand
+Rol: 2
+Address: Sigra
+
+---------------
